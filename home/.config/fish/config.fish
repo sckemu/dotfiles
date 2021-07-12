@@ -8,4 +8,10 @@ function fish_user_key_bindings
   bind \cr peco_select_history # Bind for prco history to Ctrl+r
 end
 
-. "$HOME/.homesick/repos/homeshick/homeshick.fish"
+#. "$HOME/.homesick/repos/homeshick/homeshick.fish"
+
+
+alias gc "git commit"
+alias gca "git commit -a"
+alias v "vim"
+alias n "nano"
