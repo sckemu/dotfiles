@@ -135,6 +135,7 @@ if [ -n "$SSH_CONNECTION" ] ; then
   esac
 fi
 
+alias sudo='sudo '
 alias f='fish'
 alias v='vim'
 alias n='nano'
